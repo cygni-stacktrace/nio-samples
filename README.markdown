@@ -2,8 +2,7 @@ jaxbws
 ======
 
 This sample is from the [Cygni](http://cygni.se) team blog [Stacktrace](http://stacktrace.se)
-and illustrates how JAXB can be used in conjunction with Jersey for creating a RESTful
-web service.
+how Java NIO works.
 
 Setup
 =====
